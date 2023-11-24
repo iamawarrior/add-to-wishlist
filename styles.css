@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.addtobag,.add,.clear{
+    border-radius:20px;
+    border:none;
+    margin:10px;
+    background-color: #90ee90;
+    padding:10px;
+}
+
+.movetowishlist{
+    border-radius:20px;
+    /* border:none; */
+    margin:10px;
+    /* background-color: lightgreen; */
+    padding:10px;
+    width:20rem;
+    
+}
+.display{
+    font-size: 30px;
+    font-weight: bolder;
+
+}
